@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit shakeswedscherel.com !");
+    console.log("Visit www.shakeswedscherel.com !");
 };
